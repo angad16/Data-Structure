@@ -1,0 +1,68 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PreorderToBst",
+            "request": "launch",
+            "mainClass": "PreorderToBst",
+            "projectName": "visual_70d00ef9"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - RainWaterTrap",
+            "request": "launch",
+            "mainClass": "RainWaterTrap",
+            "projectName": "visual_70d00ef9"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - circumference",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "circumference",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - avl",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "avl",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Node",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Node",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - lca",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "lca",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - firstjava",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "firstjava",
+            "args": ""
+        }
+    ]
+}
